@@ -1,0 +1,1 @@
+This example demonstrates a common error in Scala class design, specifically how to handle invalid input during object creation or property updates. The `MyClass` class enforces the constraint that age cannot be negative by throwing an `IllegalArgumentException` if a negative age is attempted. The solution shows how to handle such exceptions.
